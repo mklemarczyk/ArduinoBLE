@@ -21,5 +21,6 @@
 #define _BLE_DEFINITIONS_H_
 
 #include "BLEFormatTypes.h"
+#include "BLEServices.h"
 
 #endif
